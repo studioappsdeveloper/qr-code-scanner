@@ -4,4 +4,4 @@
 
 <b>1. Camera</b>
 
-Camera is needed for scanning QR code or Barcode
+Camera is needed for scanning QR code or Barcode.
